@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "stateCode": "KS",
+        "funfacts": "Dodge City is the windiest city in the United States."
+    },
+    {
+        "id": 2,
+        "stateCode": "KS",
+        "funfacts": "There are 27 Walnut Creeks in the state."
+    },
+    {
+        "id": 3,
+        "stateCode": "KS",
+        "funfacts": "Smith County is the geographical center of the 48 contiguous states."
+    },
+    {
+        "id": 4,
+        "stateCode": "MO",
+        "funfacts": "State folk dance: square dance."
+    },
+    {
+        "id": 5,
+        "stateCode": "MO",
+        "funfacts": "Soybeans bring in the most cash for Missourians as a crop."
+    },
+    {
+        "id": 6,
+        "stateCode": "MO",
+        "funfacts": "Laura Elizabeth Ingalls, writer of Little House on the Prairie grew up in Missouri."
+    },
+    {
+        "id": 7,
+        "stateCode": "OK",
+        "funfacts": "Oklahoma has the largest Native American population of any state in the U.S. Many of the 250,000 American Indians living in Oklahoma are descended from the 67 tribes who inhabited the Indian Territory. Oklahoma is tribal headquarters for 39 tribes."
+    },
+    {
+        "id": 8,
+        "stateCode": "OK",
+        "funfacts": "The National Cowboy Hall of Fame is located in Oklahoma City."
+    },
+    {
+        "id": 9,
+        "stateCode": "OK",
+        "funfacts": "Oklahoma has more man-made lakes than any other state, with over one million surface acres of water."
+    },
+    {
+        "id": 10,
+        "stateCode": "NE",
+        "funfacts": "Nebraskas State Gem is the Blue Agate."
+    },
+    {
+        "id": 11,
+        "stateCode": "NE",
+        "funfacts": "The worlds largest hand-planted forest is Halsey National Forrest near Thedford, Nebraska."
+    },
+    {
+        "id": 12,
+        "stateCode": "NE",
+        "funfacts": "The largest porch swing in the world is located in Hebron, Nebraska and it can sit 25 adults."
+    },
+    {
+        "id": 13,
+        "stateCode": "CO",
+        "funfacts": "Colorado has the highest mean altitude of all the states."
+    },
+    {
+        "id": 14,
+        "stateCode": "CO",
+        "funfacts": "At 14,110 feet above sea level over 400,000 people ascend Pikes Peak each year."
+    },
+    {
+        "id": 15,
+        "stateCode": "CO",
+        "funfacts": "The United States federal government owns more than 1/3 of the land in Colorado."
+    }
+    
+]
